@@ -1,7 +1,7 @@
 {
-  "name": "LIVEGRAM RAYBOT",
-  "description": "Modular  Telegram Bot powered by @PyroGram!",
-  "logo": "https://telegra.ph/file/412f91b87c01c2773a140.jpg",
+  "name": "LIVEGRAM SINICK",
+  "description": "Bot",
+  "logo": "https://telegra.ph/file/b51151fee775c8f4068f6.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -12,9 +12,8 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/MR-ANKEY/LIVEGRAM_RAYBOT",
-  "website": "https://telegram.dog/DEATHRAYBOT",
-  "success_url": "https://t.me/DEATHRAYBOT",
+  "repository": "https://github.com/Madixz/live",
+  "success_url": "https://t.me/Bot_Sinick",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal"
