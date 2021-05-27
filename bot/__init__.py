@@ -42,8 +42,15 @@ UN_BAN_COMMAND = get_config("UN_BAN_COMMAND", "unban")
 START_COMMAND = get_config("START_COMMAND", "start")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
-    "Hi. ☺️\n"
-    "Thank you for using me.\n\n"
+    "Hi, nama saya Sinick Bot !\n"
+
+    "Saya Di Rancang Untuk Mendengarkan Curhat Anda Dan Memberikan Anda Solusi, \n"
+
+    "Disini Semua Chat Akan Kami Rahasiakan Dan Bot Ini Juga Di Jalankan Manual Oleh Admin Jadi Mohon Bersabar Untuk Di Balas. \n"
+
+    "Jika Ada Masalah Dengan Botnya Silakan Hub Owner \n"
+
+    "||[Owner](https://t.me/Bot_Sinick)|| \n\n"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = get_config(
