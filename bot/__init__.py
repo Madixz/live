@@ -48,9 +48,9 @@ DEFAULT_START_TEXT = (
 
     "Disini Semua Chat Akan Kami Rahasiakan Dan Bot Ini Juga Di Jalankan Manual Oleh Admin Jadi Mohon Bersabar Untuk Di Balas. \n"
 
-    "Jika Ada Masalah Dengan Botnya Silakan Hub Owner \n"
+    "Jika Ada Masalah Dengan Botnya Silakan Hubungin \n"
 
-    "||[Owner](https://t.me/Bot_Sinick)|| \n\n"
+    "Owner => @Bot_Sinick \n\n"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = get_config(
